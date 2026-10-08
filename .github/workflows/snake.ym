@@ -1,0 +1,15 @@
+<h2 align="center">🐍🐍  Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shoaibzahid560/shoaibzahid560/output/github-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/shoaibzahid560/shoaibzahid560/output/github-snake.svg"
+      alt="Shoaib Zahid GitHub Contribution Snake"
+      width="95%"
+    />
+  </picture>
+</div>
