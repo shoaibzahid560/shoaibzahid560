@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Shoaib Zahid, artificial intelligence, academia and software engineering">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Muhammad Shoaib, artificial intelligence, academia and software engineering">
 <defs>
   <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d19"/><stop offset="1" stop-color="#111d31"/></linearGradient>
   <linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
@@ -7,7 +7,7 @@
 <g stroke="#1d3045" opacity=".65"><path d="M0 55H1000M0 110H1000M0 165H1000M0 220H1000M100 0V290M200 0V290M300 0V290M400 0V290M500 0V290M600 0V290M700 0V290M800 0V290M900 0V290"/></g>
 <rect x="26" y="26" width="948" height="238" rx="10" fill="none" stroke="#24364e"/>
 <text x="70" y="78" font-family="monospace" font-size="16" letter-spacing="4" fill="#22d3ee">RESEARCH / TEACH / BUILD</text>
-<text x="66" y="148" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="800" letter-spacing="1" fill="#f8fafc">SHOAIB ZAHID</text>
+<text x="66" y="148" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="800" letter-spacing="1" fill="#f8fafc">MUHAMMAD SHOAIB</text>
 <text x="70" y="189" font-family="monospace" font-size="20" fill="#a5b4fc">ARTIFICIAL INTELLIGENCE  ·  PROFESSOR</text>
 <text x="70" y="229" font-family="monospace" font-size="16" fill="#94a3b8">PHD IN AI   /   5 YEARS EXPERIENCE</text>
 <path  d="M727 113 L763 88 L804 114 L840 90 L888 125 L918 105 M727 176 L768 146 L813 172 L860 143 L919 179" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>

@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/header-static.svg" />
-  <img src="./assets/header.svg" alt="Shoaib Zahid — AI Research and Software Engineering" width="100%" />
+  <img src="./assets/header.svg" alt="Muhammad Shoaib — AI Research and Software Engineering" width="100%" />
 </picture>
 
 <br/>
@@ -78,7 +78,7 @@ Remote staffing and virtual assistant platform with a web-based service experien
 
 </div>
 
-> **Technology stack:** Add only technologies confirmed by Shoaib or identified in his repositories. This is deliberately left factual rather than filled with unverified icons.
+> **Technology stack:** Add only technologies confirmed by Muhammad Shoaib or identified in his repositories. This is deliberately left factual rather than filled with unverified icons.
 
 ## GitHub activity
 
